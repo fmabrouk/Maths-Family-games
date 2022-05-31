@@ -25,6 +25,7 @@ The 3 games have the same principles <br />
 Who will have the most score will win <br />
 But there are rules if we lands on one of the wicked images the score will be reduced to Zero <br />
 And the other player will resume the game <br />
+The botton Roll dice to memorize the score<br />
 The hold button to display the score <br />
 And it is who reaches 200 will win and it will display winner <br /><br />
 ![](Images/winner.png)<br />
