@@ -1,11 +1,11 @@
 # Maths-Family-games
 implement Pascal's triangle, Stern sequence,  probability and  implement a scooby-doo game variant, simpsons and totally spies
 In left there are  math games and in the right there are games for family<br /><br />
-![](Images/acceuil.png)
-We entre to the left 
-![](Images/Game1)
-If we clique on probability
-![](Probabilité.png)
+![](Images/acceuil.png)<br />
+We entre to the left <br />
+![](Images/Game1)<br />
+If we clique on probability<br />
+![](Images/Probabilité.png)<br />
 We should entre the size of the table and click on the botton Click to memorize the size <br />
 Fill the table with values then click on the button click it will appear a generate button <br />
 And when you slide the mouse over it will display the variance, the average and the standard deviation <br />
