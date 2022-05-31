@@ -3,7 +3,7 @@ implement Pascal's triangle, Stern sequence,  probability and  implement a scoob
 In left there are  math games and in the right there are games for family<br /><br />
 ![](Images/acceuil.png)<br />
 We entre to the left <br />
-![](Images/Game1)<br />
+![](Images/Game1.png)<br />
 If we clique on probability<br />
 ![](Images/Probabilité.png)<br />
 We should entre the size of the table and click on the botton Click to memorize the size <br />
